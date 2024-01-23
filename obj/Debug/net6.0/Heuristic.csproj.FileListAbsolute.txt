@@ -1,0 +1,14 @@
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\bin\Debug\net6.0\Heuristic.exe
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\bin\Debug\net6.0\Heuristic.deps.json
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\bin\Debug\net6.0\Heuristic.runtimeconfig.json
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\bin\Debug\net6.0\Heuristic.dll
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\bin\Debug\net6.0\Heuristic.pdb
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\obj\Debug\net6.0\Heuristic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\obj\Debug\net6.0\Heuristic.AssemblyInfoInputs.cache
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\obj\Debug\net6.0\Heuristic.AssemblyInfo.cs
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\obj\Debug\net6.0\Heuristic.csproj.CoreCompileInputs.cache
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\obj\Debug\net6.0\Heuristic.dll
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\obj\Debug\net6.0\refint\Heuristic.dll
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\obj\Debug\net6.0\Heuristic.pdb
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\obj\Debug\net6.0\Heuristic.genruntimeconfig.cache
+C:\Users\Sh6abrA\source\repos\Heuristic\Heuristic\obj\Debug\net6.0\ref\Heuristic.dll
